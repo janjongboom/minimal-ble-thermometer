@@ -1,0 +1,8 @@
+.hg/
+BUILD/
+mbed-coremark-lm32-printf/
+mbed-os/
+shields/TARGET_ST_BLUENRG/
+.mbed
+mbed_settings.*
+
